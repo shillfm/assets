@@ -1,6 +1,7 @@
 {
   "name": "Shayn Shin",
   "symbol": "shaynshinSHILL",
-  "description": "Shayn Shin's SHILL token",
-  "image": "https://raw.githubusercontent.com/shillfm/assets/main/tokens/images/1803344200655839234.jpg"
+  "image": "https://raw.githubusercontent.com/shillfm/assets/main/tokens/images/1803344200655839234.jpg",
+  "description": "Shayn Shin's SHILL Token",
+  "external_url": "https://shill.fm"
 }
