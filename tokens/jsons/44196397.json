@@ -1,6 +1,7 @@
 {
+  "name": "Elon Musk",
   "symbol": "elonmuskSHILL",
-  "image": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_200x200.jpg",
-  "description": "undefined's SHILL Token",
+  "image": "https://raw.githubusercontent.com/shillfm/assets/main/tokens/images/44196397.jpg",
+  "description": "Elon Musk's SHILL Token",
   "external_url": "https://shill.fm"
 }
